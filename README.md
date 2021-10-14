@@ -1,4 +1,4 @@
-Como podemos usar a ciência de dados para reduzir melhor a rotatividade de clientes?
+# Como podemos usar a ciência de dados para reduzir melhor a rotatividade de clientes?
 
 Vamos usar o #python e a ferramenta estatística análise de sobrevivência?
 
